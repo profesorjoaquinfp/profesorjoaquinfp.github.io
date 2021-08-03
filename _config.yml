@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Tema
-remote_theme: benbalter/retlab
+remote_theme: mmistakes/minimal-mistakes
 
 # Use the following plug-ins
 gems:
