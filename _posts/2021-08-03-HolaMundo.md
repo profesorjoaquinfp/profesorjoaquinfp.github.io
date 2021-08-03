@@ -2,7 +2,7 @@
 Nuevo post
 ---
 
-[apuntes Linux](SOM/linux-1/linux.md)
+[apuntes Linux](profesorjoaquinfp/SOM/linux-1/linux.md)
 
 
 Probando una nueva entrada
