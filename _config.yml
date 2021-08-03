@@ -73,7 +73,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Tema
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+theme: hacker
 
 # Use the following plug-ins
 gems:
